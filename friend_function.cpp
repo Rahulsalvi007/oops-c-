@@ -50,18 +50,4 @@ int main(){
     d3.display();
     return 0;
 }
-
-// #include<iostream>
-// using namespace std;
-
-// class demo1{
-//     int a,b;
-//     public:
-//     void input(){
-//         cout<<"enter 2 value:";
-//         cin>>a>>b;
-//     }
-//     void display(){
-//         cout<<"\n a=\nb="<<a<<b;
-//     }
-// };
+
